@@ -15,7 +15,7 @@ or you can write me on email: dreasweiss@gmail.com
 
 ---
 
-<img align='right' src='https://www.codewars.com/users/DreasWeiss/badges/micro'>
+<img width=200 align='right' src='https://www.codewars.com/users/DreasWeiss/badges/micro'>
 
 
 ## Some Tool and Tech I use
