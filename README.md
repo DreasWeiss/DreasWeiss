@@ -3,8 +3,8 @@
 </h1>
 <img width=170 align='right' src='./assets/img/logo.png'>
 I began dabbling in code three years ago starting with the standard HTML, CSS and JavaScript. I have recently started learning node js and react, and have plan to try react native after. Firstly, web development was like a hobby, but now has become a career move for me, so I bring an enthusiasm and commitment to learning that comes with dedicated yourself to something.
-
-<br>
+<br/>
+<br/>
 What I’m currently looking for is a happy work environment with peers committed to their related crafts as I am committed to mine. Though I don’t need babysitting, I would love to have a senior peer to check my work and give me advice regarding the steps required for my own development.
 
 ---
