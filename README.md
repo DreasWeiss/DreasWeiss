@@ -36,12 +36,16 @@ or you can write me on email: dreasweiss@gmail.com
  
  ---
 
-### Courses
+<details>
+   <summary><b> 👨‍🎓 Courses </b></summary>
+
 |issue date|platform|hours|cerificate|
 | --- | --- | --- | --- |
 | dec 2022 | [stepik](https://stepik.org/course/73/info) | 10 | [Introduction to Linux](https://stepik.org/cert/1888144)
 | dec 2022 | [stepik](https://stepik.org/course/52226/info) | 1 | [Young Fighter Course in IT](https://stepik.org/cert/1876461)
 | jul 2021 | [freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) | 300 | [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/dreasweiss/javascript-algorithms-and-data-structures)
+
+</details>
 
 ### 
 
