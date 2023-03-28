@@ -11,7 +11,7 @@ What I’m currently looking for is a happy work environment with peers committe
 ## Contact me
 [<img width=50 src='./assets/img/linkedin.svg'>](https://www.linkedin.com/in/dreasweiss) [<img width=50 src='./assets/img/telegram.svg'>](https://telegram.me/dreasweiss)
 <br>
-or you can write me on email: dreasweiss@gmail.com
+or you can write me on email: dreasweiss@gmail.com 📫  [click](mailto:dreasweiss@gmail.com)
 
 ---
 
