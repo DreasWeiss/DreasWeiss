@@ -48,6 +48,21 @@ or you can write me on email: dreasweiss@gmail.com 📫
 
 </details>
 
+<details>
+   <summary><b> 📄 GitHub Pages </b></summary>
+
+|link|tech|description|github|
+| --- | --- | --- | --- |
+| [FiverrQrious](https://dreasweiss.github.io/fiverr_qrious/) | HTML CSS JavaScript | it was the task from fiver. design provided by the client | [github](https://github.com/DreasWeiss/fiverr_qrious)|
+| [FiverrHubTags](https://dreasweiss.github.io/FiverrHubTags/) | HTML CSS SCSS | it was the task from fiver. The customer left very good review and tips | [github](https://github.com/DreasWeiss/FiverrHubTags)|
+| [GmailSignatureCarl](https://dreasweiss.github.io/GmailSignatureCarl/) | JavaScript HTML CSS | online email signature generator for the customer from upwork. the client uses this site to make signatures to the employees of his company | [github](https://github.com/DreasWeiss/GmailSignatureCarl)|
+| [s-hild.ru](https://dreasweiss.github.io/s-hild.ru/) | HTML CSS | business card website - local commercial store (the main request of the customer - quickly and cheaply) it is very simple - but this site brings money and customers to the customer for several years | [github](https://github.com/DreasWeiss/s-hild.ru)|
+| [DesignerPortfolio](https://dreasweiss.github.io/site_DesignerPortfolio/) | HTML CSS JavaScript | html/css/js training project | [github](https://github.com/DreasWeiss/site_DesignerPortfolio)|
+| [ActiveBox](https://dreasweiss.github.io/site_ActiveBox/) | HTML CSS JavaScript | html/css/js training project | [github](https://github.com/DreasWeiss/site_ActiveBox)|
+
+
+</details>
+
 ### 
 
 <!--
