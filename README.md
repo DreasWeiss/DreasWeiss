@@ -26,7 +26,8 @@ or you can write me on email: dreasweiss@gmail.com 📫
 
   <img width=50 src='./assets/img/mongodb.svg' alt='MongoDB'> <br>
 
- <img width=30 src='./assets/img/html.svg' alt='HTML'>   <img width=30 src='./assets/img/css3.svg' alt='CSS'>   <img width=45 src='./assets/img/sass.svg' alt='SASS'>  <img width=35 src='./assets/img/git.svg' alt='GIT'>    <img width=40 src='./assets/img/postman.svg' alt='Postman'>   <img width=35 src='./assets/img/linux.svg' alt='Linux'>   <img width=35 src='./assets/img/ubuntu.svg' alt='Ubuntu'>   <img width=30 src='./assets/img/vscode.svg' alt='VSCode'>  <img width=40 src='./assets/img/bash.svg' alt='Bash Script'>  
+ <img width=30 src='./assets/img/html.svg' alt='HTML'>   <img width=30 src='./assets/img/css3.svg' alt='CSS'>   <img width=45 src='./assets/img/sass.svg' alt='SASS'>  <img width=35 src='./assets/img/git.svg' alt='GIT'>    <img width=40 src='./assets/img/postman.svg' alt='Postman'>   <img width=35 src='./assets/img/linux.svg' alt='Linux'>   <img width=35 src='./assets/img/ubuntu.svg' alt='Ubuntu'>   <img width=30 src='./assets/img/vscode.svg' alt='VSCode'>  <img width=40 src='./assets/img/bash.svg' alt='Bash Script'>   <img width=40 src='./assets/img/telegraf.svg' alt='Telegraf framework'>
+ <br/>
  <img width=75 src='./assets/img/docker.svg' alt='Docker'>
  <img width=45 src='./assets/img/handlebars.svg' alt='Handlebars'>      <img width=35 src='./assets/img/markdown.svg' alt='Markdown'>   <br>
 
@@ -41,6 +42,7 @@ or you can write me on email: dreasweiss@gmail.com 📫
 
 |issue date|platform|hours|tech|cerificate|
 | --- | --- | --- | --- | --- |
+| apr 2023 | [udemy](https://www.udemy.com/course/telegram-mono-currency-bot/) | 1 | <img width=25 src='./assets/img/nodejs.svg' alt='NodeJs'> <img width=25 src='./assets/img/telegraf.svg' alt='Telegraf framework'> | Telegram Bot "Current Course" on Node.js and Monobank API
 | mar 2023 | [freecodecamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/) | 300 | <img width=25 src='./assets/img/nodejs.svg' alt='NodeJs'> <img width=25 src='./assets/img/express.svg' alt='Express'> | [Back End Development and APIs](https://www.freecodecamp.org/certification/dreasweiss/back-end-development-and-apis)
 | dec 2022 | [stepik](https://stepik.org/course/73/info) | 10 | <img width=25 src='./assets/img/linux.svg' alt='Linux'> | [Introduction to Linux](https://stepik.org/cert/1888144)
 | dec 2022 | [stepik](https://stepik.org/course/52226/info) | 1 |   | [Young Fighter Course in IT](https://stepik.org/cert/1876461)
