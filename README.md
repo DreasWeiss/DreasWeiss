@@ -8,7 +8,7 @@ I began dabbling in code three years ago starting with the standard HTML, CSS an
 What I’m currently looking for is a happy work environment with peers committed to their related crafts as I am committed to mine. Though I don’t need babysitting, I would love to have a senior peer to check my work and give me advice regarding the steps required for my own development.
 
 ---
-## Contact me
+## 💬 Contact me
 [<img width=50 src='./assets/img/linkedin.svg'>](https://www.linkedin.com/in/dreasweiss) [<img width=50 src='./assets/img/telegram.svg'>](https://telegram.me/dreasweiss)
 <br>
 or you can write me on email: dreasweiss@gmail.com 📫
