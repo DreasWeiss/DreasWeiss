@@ -34,6 +34,8 @@ or you can write me on email: dreasweiss@gmail.com 📫
  <img width=25 src='./assets/img/adobe-photoshop-2.svg' alt='Photoshop'> <img width=25 src='./assets/img/adobe-illustrator-cc-icon.svg' alt='Illustrator'> <img width=25 src='./assets/img/adobe-indesign-cc-icon.svg' alt='Indesign'> <img width=25 src='./assets/img/figma.svg' alt='Figma'> <img width=25 src='./assets/img/davinci-resolve-12.svg' alt='Davinci Resolve'> <img width=25 src='./assets/img/obs-2.svg' alt='OBS'> <br>
  
  also: seo, yandex direct, google adsence
+
+ 🌱 I’m currently learning ...
  
  ---
 
