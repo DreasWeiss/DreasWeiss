@@ -25,6 +25,7 @@ or you can write me on email: dreasweiss@gmail.com 📫
 <img width=50 src='./assets/img/react.svg' alt='React'>   <img width=60 src='./assets/img/express.svg' alt='Express'> <br>
 
   <img width=50 src='./assets/img/mongodb.svg' alt='MongoDB'> <br>
+  <img width=50 src='./assets/img/mongodb.svg' alt='MongoDB'> <br>
 
  <img width=30 src='./assets/img/html.svg' alt='HTML'>   <img width=30 src='./assets/img/css3.svg' alt='CSS'>   <img width=45 src='./assets/img/sass.svg' alt='SASS'>  <img width=35 src='./assets/img/git.svg' alt='GIT'>    <img width=40 src='./assets/img/postman.svg' alt='Postman'>   <img width=35 src='./assets/img/linux.svg' alt='Linux'>   <img width=35 src='./assets/img/ubuntu.svg' alt='Ubuntu'>   <img width=30 src='./assets/img/vscode.svg' alt='VSCode'>  <img width=40 src='./assets/img/bash.svg' alt='Bash Script'>   <img width=40 src='./assets/img/telegraf.svg' alt='Telegraf framework'>
  <br/>
