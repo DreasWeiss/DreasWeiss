@@ -43,7 +43,7 @@ or you can write me on email: dreasweiss@gmail.com 📫
 |issue date|platform|hours|tech|course/cerificate|
 | --- | --- | --- | --- | --- |
 | march 2024 | [stepik](https://stepik.org/course/186300/info) | 16 | <img width=25 src='./assets/img/react.svg' alt='React'> | Basics React, React Router and Redux Toolkit
-| feb 2024 | [udemy](https://www.udemy.com/course/30-react-projects-learn-react-js-by-building-30-web-apps/) | 13 | <img width=25 src='./assets/img/react.svg' alt='React'> | 30+ React Projects, Learn React JS by Building 30+ Web Apps
+| feb 2024 | [udemy](https://www.udemy.com/course/30-react-projects-learn-react-js-by-building-30-web-apps/) | 13 | <img width=25 src='./assets/img/react.svg' alt='React'> | [30+ React Projects, Learn React JS by Building 30+ Web Apps](https://github.com/DreasWeiss/30ReactPr)
 | apr 2023 | [udemy](https://www.udemy.com/course/telegram-mono-currency-bot/) | 1 | <img width=25 src='./assets/img/nodejs.svg' alt='NodeJs'> <img width=25 src='./assets/img/telegraf.svg' alt='Telegraf framework'> | Telegram Bot "Current Course" on Node.js and Monobank API
 | mar 2023 | [freecodecamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/) | 300 | <img width=25 src='./assets/img/nodejs.svg' alt='NodeJs'> <img width=25 src='./assets/img/express.svg' alt='Express'> | [Back End Development and APIs](https://www.freecodecamp.org/certification/dreasweiss/back-end-development-and-apis)
 | dec 2022 | [stepik](https://stepik.org/course/73/info) | 10 | <img width=25 src='./assets/img/linux.svg' alt='Linux'> | [Introduction to Linux](https://stepik.org/cert/1888144)
