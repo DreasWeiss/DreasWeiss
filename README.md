@@ -17,7 +17,6 @@ or you can write me on email: dreasweiss@gmail.com 📫
 
 [<img width=200 align='right' src='https://www.codewars.com/users/DreasWeiss/badges/micro'>](https://www.codewars.com/users/DreasWeiss)
 
-
 ## Some Tool and Tech I use
 
 <img width=70 src='./assets/img/js.svg' alt='JavaScript'>   <img width=70 src='./assets/img/ts.svg' alt='TypeScript'>   <img width=100 src='./assets/img/nodejs.svg' alt='NodeJs'>   <br>
@@ -67,8 +66,15 @@ or you can write me on email: dreasweiss@gmail.com 📫
 
 
 </details>
+<hr/>
 
-### 
+#### Other social media accounts
+<a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('https://badges.strava.com/logo-strava-echelon.png')" href='https://strava.com/athletes/141263930' target="_clean">
+  Follow me on
+  <img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
+</a>
+
+[Komoot](https://www.komoot.com/user/4108777453358)
 
 <!--
 **DreasWeiss/DreasWeiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
