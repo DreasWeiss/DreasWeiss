@@ -41,7 +41,7 @@ or you can write me on email: dreasweiss@gmail.com 📫
 
 |issue date|platform|hours|tech|course/cerificate|
 | --- | --- | --- | --- | --- |
-| july 2024 | [stepik](https://stepik.org/course/171974/info) | 16 | <img width=25 src='./assets/img/git.svg' alt='Git'> | [We study Git and GitHub in 3 hours in practice](https://stepik.org/cert/2527911?lang=en)
+| july 2024 | [stepik](https://stepik.org/course/171974/info) | 3 | <img width=25 src='./assets/img/git.svg' alt='Git'> | [We study Git and GitHub in 3 hours in practice](https://stepik.org/cert/2527911?lang=en)
 | march 2024 | [stepik](https://stepik.org/course/186300/info) | 16 | <img width=25 src='./assets/img/react.svg' alt='React'> | Basics React, React Router and Redux Toolkit
 | march 2024 | [udemy](https://www.udemy.com/course/30-react-projects-learn-react-js-by-building-30-web-apps/) | 13 | <img width=25 src='./assets/img/react.svg' alt='React'> | [30+ React Projects, Learn React JS by Building 30+ Web Apps](https://github.com/DreasWeiss/30ReactPr)
 | apr 2023 | [udemy](https://www.udemy.com/course/telegram-mono-currency-bot/) | 1 | <img width=25 src='./assets/img/nodejs.svg' alt='NodeJs'> <img width=25 src='./assets/img/telegraf.svg' alt='Telegraf framework'> | Telegram Bot "Current Course" on Node.js and Monobank API
