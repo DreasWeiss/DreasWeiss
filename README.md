@@ -2,10 +2,10 @@
  a fullstack web developer JS
 </h1>
 <img width=170 align='right' src='./assets/img/logo.png'>
-I began dabbling in code three years ago starting with the standard HTML, CSS and JavaScript. I have recently started learning node js and react, and have plan to try react native after. Firstly, web development was like a hobby, but now has become a career move for me, so I bring an enthusiasm and commitment to learning that comes with dedicated yourself to something.
+Passionate about technology from an early age, I’ve spent most of my life in IT. Over the years, I’ve gained versatile experience across development, design, and team management.
 <br/>
 <br/>
-What I’m currently looking for is a happy work environment with peers committed to their related crafts as I am committed to mine. Though I don’t need babysitting, I would love to have a senior peer to check my work and give me advice regarding the steps required for my own development.
+In summer 2024, I relocated to Germany and I’m eager to take on new challenges and continue developing professionally. Currently, I’m focused on growing as a Frontend Developer and improving my German (B1 level).
 
 ---
 ## 💬 Contact me
@@ -21,11 +21,11 @@ or you can write me on email: dreasweiss@gmail.com 📫
 
 <img width=70 src='./assets/img/js.svg' alt='JavaScript'>   <img width=70 src='./assets/img/ts.svg' alt='TypeScript'>   <img width=100 src='./assets/img/nodejs.svg' alt='NodeJs'>   <br>
 
-<img width=50 src='./assets/img/react.svg' alt='React'>   <img width=60 src='./assets/img/express.svg' alt='Express'> <br>
+<img width=50 src='./assets/img/react.svg' alt='React'>   <img width=50 src='./assets/img/next-js.svg' alt='Next'>   
 
-  <img width=50 src='./assets/img/mongodb.svg' alt='MongoDB'> <br>
+<img width=150 src='./assets/img/strapi-full-logo-dark.svg' alt='Strapi'>   <img width=60 src='./assets/img/express.svg' alt='Express'> <br>
 
- <img width=30 src='./assets/img/html.svg' alt='HTML'>   <img width=30 src='./assets/img/css3.svg' alt='CSS'>   <img width=45 src='./assets/img/sass.svg' alt='SASS'>  <img width=35 src='./assets/img/git.svg' alt='GIT'>    <img width=40 src='./assets/img/postman.svg' alt='Postman'>   <img width=35 src='./assets/img/linux.svg' alt='Linux'>   <img width=35 src='./assets/img/ubuntu.svg' alt='Ubuntu'>   <img width=30 src='./assets/img/vscode.svg' alt='VSCode'>  <img width=40 src='./assets/img/bash.svg' alt='Bash Script'>   <img width=40 src='./assets/img/telegraf.svg' alt='Telegraf framework'>
+   <img width=30 src='./assets/img/html.svg' alt='HTML'>   <img width=30 src='./assets/img/css3.svg' alt='CSS'>   <img width=45 src='./assets/img/sass.svg' alt='SASS'>  <img width=35 src='./assets/img/git.svg' alt='GIT'>    <img width=40 src='./assets/img/postman.svg' alt='Postman'>   <img width=40 src='./assets/img/mongodb.svg' alt='MongoDB'>   <img width=35 src='./assets/img/linux.svg' alt='Linux'>   <img width=35 src='./assets/img/ubuntu.svg' alt='Ubuntu'>   <img width=30 src='./assets/img/vscode.svg' alt='VSCode'>  <img width=40 src='./assets/img/bash.svg' alt='Bash Script'>   <img width=40 src='./assets/img/telegraf.svg' alt='Telegraf framework'>
  <br/>
  <img width=75 src='./assets/img/docker.svg' alt='Docker'>
  <img width=45 src='./assets/img/handlebars.svg' alt='Handlebars'>      <img width=35 src='./assets/img/markdown.svg' alt='Markdown'>   <br>
@@ -69,24 +69,3 @@ or you can write me on email: dreasweiss@gmail.com 📫
 
 </details>
 <hr/>
-
-#### Other social media accounts
-<a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('https://badges.strava.com/logo-strava-echelon.png')" href='https://strava.com/athletes/141263930' target="_clean"> <img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
-</a>
-
-[Komoot](https://www.komoot.com/user/4108777453358)
-
-<!--
-**DreasWeiss/DreasWeiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
